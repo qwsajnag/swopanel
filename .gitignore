@@ -1,0 +1,8 @@
+# Build artifacts
+*.iml
+.gradle/
+build/
+local.properties
+.idea/
+*.apk
+*.keystore
